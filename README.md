@@ -4,6 +4,9 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Blog
+
+https://medium.com/@gaurav.k.parmar007/dog-breed-classification-using-keras-f439dbb91ecc
 
 ## Project Overview
 
